@@ -1,0 +1,24 @@
+.person {
+  z-index: 1;
+  max-height: calc(100vh - 24px);
+  overflow-y: auto;
+  padding-bottom: 24px;
+
+  .person-image {
+    height: 200px;
+    width: 200px;
+  }
+
+  .person-loacation {
+    width: 100%;
+    height: 300px;
+  }
+
+  .person-info {
+    display: flex;
+
+    .person-info-label {
+      width: 200px;
+    }
+  }
+}

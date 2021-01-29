@@ -1,0 +1,5 @@
+export const ADD_PERSONS = 'ADD_PERSONS';
+export const DELETE_PERSON = 'DELETE_PERSON';
+export const STOP_LOADING = 'STOP_LOADING';
+export const SET_ACTIVE_PERSON_ID = 'SET_ACTIVE_PERSON_ID';
+export const SET_IS_LOADING = 'SET_IS_LOADING';
